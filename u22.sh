@@ -42,4 +42,4 @@ sudo apt-get install firefox -y
 sudo apt-get install qdirstat -y
 sudo apt install -f ./nomachine_8.4.2_1_amd64.deb
 sudo usermod -aG abdulghanifawzi
-sudo reboot
+#sudo reboot
